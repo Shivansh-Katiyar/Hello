@@ -1,6 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+#include <stdio.h>   //For standard input output
+#include <stdlib.h>  //For random function
+#include <time.h>    //For seeding time
 
 int main()
 {
