@@ -1,3 +1,3 @@
-#This is my repo
+# This is my repo.
 <br>
-#In this hello world will be printed in amazing style.
+In this hello world will be printed in amazing style.
